@@ -85,7 +85,6 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcelodsoares/) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/Mdsoare/)
 
-<br>
 <table>
   <tr>
     <td>
