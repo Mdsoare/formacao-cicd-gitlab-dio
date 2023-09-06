@@ -80,6 +80,12 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
 
 
 ## ✨ ️Redes Socias ✨
+
+[![PerfilDIO](https://img.shields.io/badge/DIO-000?style=for-the-badge)](https://web.dio.me/users/marcelo_soares92)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcelodsoares/) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/Mdsoare/)
+
+<br>
 <table>
   <tr>
     <td>
@@ -95,10 +101,6 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
   </tr>
 </table>
 <br>
-
-[![PerfilDIO](https://img.shields.io/badge/DIO-000?style=for-the-badge)](https://web.dio.me/users/marcelo_soares92)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcelodsoares/) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/Mdsoare/)
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
