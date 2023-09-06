@@ -11,22 +11,22 @@ Repositório criado para fins educativos, com a disponibilização de materiais 
 [![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/track/formacao-gitlab-cicd) 
 [![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/track/formacao-gitlab-cicd) 
 
-## Resumo
+## Resumo 🎯
 O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as equipes a gerenciar compilações, testes e lançamento de software com check-ins automáticos em cada estágio para identificar e corrigir quaisquer problemas no ciclo de desenvolvimento. São apresentados nesta formação conceitos básicos de uma pipeline de deploy utilizando os recursos do GitLab até o deploy de uma aplicação em um cluster Kubernetes, camada de testes, criação de imagens Docker e etc.   
 
-## Ferramentas
+## Ferramentas 🖥️
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitLab](https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=gitlab&logoColor=30A3DC)](https://docs.gitlab.com/)
 [![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=30A3DC)](https://https://docs.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=30A3DC)](https://kubernetes.io/docs/home/)
 
-## Percurso
+## Percurso ⌛
 <table>
   <thead>
     <tr align="left">
       <th>Nº</th>
       <th>Etapas</th>
-      <th>Materiais de Apoio</th>
+      <th>📖 Materiais de Apoio 📖</th>
     </tr>
   </thead>
   <tbody align="left">
@@ -61,7 +61,7 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
   <tfoot></tfoot>
 </table>
 
-## Ajuda - Convenção de Commits:
+## Ajuda - Convenção de Commits 💻
 
 | Tipo de Commit | Descrição                                                                                                 |
 | -------------- | --------------------------------------------------------------------------------------------------------- |
@@ -75,7 +75,7 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
 #### Exemplo commit
 
 `feat: adicionado novo arquivo`
-
+<br>
 
 ## ✨ ️Redes Socias ✨
 
@@ -98,10 +98,10 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
   </tr>
 </table>
 
-## Referências
+## Referências 🔎
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
 - [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 
 ##
-<div align="center">Disponibilizado por <a href="https://github.com/Mdsoare">Marcelo Soares ®</a>.</div>
+<div align="center">Disponibilizado por <a href="https://github.com/Mdsoare">🕶 Marcelo Soares ®</a>.</div>
