@@ -35,7 +35,7 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
       <td>01</td>
       <td>Primeiros Passos com o GitLab</td>
       <td align="center">
-        <a href="https://github.com/Mdsoare/gitlab-cicd/00-primeiros-passos">
+        <a href="https://github.com/Mdsoare/gitlab-cicd/tree/main/00-primeiros-passos">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>
@@ -44,7 +44,7 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
       <td>02</td>
       <td>Conceitos e Arquitetura do GitLab</td>
       <td align="center">
-        <a href="https://github.com/Mdsoare/gitlab-cicd/01-conceitos-arquitetura">
+        <a href="https://github.com/Mdsoare/gitlab-cicd/tree/main/00-primeiros-passos">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>
@@ -53,7 +53,7 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
       <td>03</td>
       <td>Criando Pipelines</td>
       <td align="center">
-        <a href="https://github.com/Mdsoare/gitlab-cicd/02-criando-pipelines">
+        <a href="https://github.com/Mdsoare/gitlab-cicd/tree/main/01-conceitos-arquitetura">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>    
@@ -79,7 +79,7 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
 `feat: adicionado novo arquivo`
 
 
-## Conecte-se comigo
+## ✨ ️Redes Socias ✨
 <table>
   <tr>
     <td>
@@ -106,4 +106,4 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
 - [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 
 ##
-<div align="center">Feito por <a href="https://github.com/Mdsoare">Marcelo</a>.</div>
+<div align="center">Feito por <a href="https://github.com/Mdsoare">Disponibilizado por Marcelo Soares ®</a>.</div>
