@@ -11,7 +11,7 @@ Repositório criado para fins educativos, com a disponibilização de materiais 
 [![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/track/formacao-gitlab-cicd) 
 [![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/track/formacao-gitlab-cicd) 
 
-## Objetivo
+## Resumo
 O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as equipes a gerenciar compilações, testes e lançamento de software com check-ins automáticos em cada estágio para identificar e corrigir quaisquer problemas no ciclo de desenvolvimento. São apresentados nesta formação conceitos básicos de uma pipeline de deploy utilizando os recursos do GitLab até o deploy de uma aplicação em um cluster Kubernetes, camada de testes, criação de imagens Docker e etc.   
 
 ## Ferramentas
@@ -19,7 +19,6 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
 [![GitLab](https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=gitlab&logoColor=30A3DC)](https://docs.gitlab.com/)
 [![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=30A3DC)](https://https://docs.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=30A3DC)](https://kubernetes.io/docs/home/)
-<br>
 
 ## Percurso
 <table>
@@ -61,7 +60,6 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
   </tbody>
   <tfoot></tfoot>
 </table>
-<br>
 
 ## Ajuda - Convenção de Commits:
 
@@ -99,7 +97,6 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
     </td>
   </tr>
 </table>
-<br>
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
