@@ -104,4 +104,4 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
 - [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 
 ##
-<div align="center">Feito por <a href="https://github.com/Mdsoare">Disponibilizado por Marcelo Soares ®</a>.</div>
+<div align="center">Disponibilizado por <a href="https://github.com/Mdsoare">Marcelo Soares ®</a>.</div>
