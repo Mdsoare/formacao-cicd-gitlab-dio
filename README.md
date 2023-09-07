@@ -99,9 +99,10 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
 </table>
 
 ## Referências 🔎
-- [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
-- [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
-- [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+- [GIT DOCUMENTATION.](https://git-scm.com/doc)
+- [GITLAB DOCS](https://docs.gitlab.com/)
+- [DOCKER DOCS](https://docs.docker.com/)
+- [KUBERNETES DOCS](https://kubernetes.io/docs/home/)
 
 ##
 <div align="center">Disponibilizado por <a href="https://github.com/Mdsoare">🕶 Marcelo Soares ®</a>.</div>
