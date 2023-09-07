@@ -11,7 +11,6 @@
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitLab](https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=gitlab&logoColor=30A3DC)](https://docs.gitlab.com/)
 [![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=30A3DC)](https://docs.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=30A3DC)](https://kubernetes.io/docs/home/)
 
 ## ✨ ️Contatos ✨
 
