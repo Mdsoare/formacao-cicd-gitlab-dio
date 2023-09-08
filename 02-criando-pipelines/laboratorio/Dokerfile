@@ -1,0 +1,18 @@
+# Use a imagem base do Node.js
+FROM node:16-alpine
+
+# Defina o diretório de trabalho dentro do contêiner
+WORKDIR /usr/src/app
+
+# Copie apenas o arquivo de dependências antes de executar npm install
+COPY ./app/package.json ./app/package-lock.json ./
+RUN npm install
+
+# Copie todos os arquivos restantes da aplicação
+COPY ./app .
+
+# Exponha a porta em que a aplicação irá ouvir
+EXPOSE 3000
+
+# Comando para iniciar a aplicação
+CMD ["npm", "start"]
