@@ -75,6 +75,9 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
 #### Exemplo commit
 
 `feat: adicionado novo arquivo`
+
+#### Treine seus commits no Free Explorer
+- [FreeExplorer](https://git-school.github.io/visualizing-git/)
 <br>
 
 ## Redes Socias
