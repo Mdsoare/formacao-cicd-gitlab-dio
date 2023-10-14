@@ -2,6 +2,7 @@
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span> Formação CI/CD com GitLab</span>
+    <img align="center" width="80px" src="https://hermes.dio.me/tracks/cfecddb8-889c-403f-8edb-5771b97e982f.png"></a>  
 </h1>
 
 Repositório criado para fins educativos, com a disponibilização de materiais de apoio do curso **Formação CI/CD com GitLab** da [Digital Innovation One](https://www.dio.me/).
