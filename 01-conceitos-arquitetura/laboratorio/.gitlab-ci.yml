@@ -7,8 +7,8 @@ criar_imagens:
   tags:
     - gcp
   script:
-    - docker build -t marcelosoares92/gcp-projeto1:1.0 app/.
-    - docker push marcelosoares92/gpc-projeto1:1.0
+    - docker build -t mdsoare/gcp-projeto1:1.0 app/.
+    - docker push mdsoare/gpc-projeto1:1.0
 
 executar_imagens:
   stage: deploy
@@ -17,4 +17,4 @@ executar_imagens:
   tags:
     - gcp
   script:
-    - docker run -dti --name webserver -p 80:80 marcelosoares92/gcp-projeto1:1.0
+    - docker run -dti --name webserver -p 80:80 mdsoare/gcp-projeto1:1.0
