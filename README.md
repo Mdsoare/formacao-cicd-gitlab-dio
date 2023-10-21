@@ -35,7 +35,7 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
       <td>01</td>
       <td>Primeiros Passos com o GitLab</td>
       <td align="center">
-        <a href="https://github.com/Mdsoare/gitlab-cicd/tree/main/00-primeiros-passos">
+        <a href="https://github.com/Mdsoare/gitlab-cicd/tree/main/01-primeiros-passos">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>
@@ -44,7 +44,7 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
       <td>02</td>
       <td>Conceitos e Arquitetura do GitLab</td>
       <td align="center">
-        <a href="https://github.com/Mdsoare/gitlab-cicd/tree/main/00-primeiros-passos">
+        <a href="https://github.com/Mdsoare/gitlab-cicd/tree/main/02-primeiros-passos">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>
@@ -53,11 +53,20 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
       <td>03</td>
       <td>Criando Pipelines</td>
       <td align="center">
-        <a href="https://github.com/Mdsoare/gitlab-cicd/tree/main/01-conceitos-arquitetura">
+        <a href="https://github.com/Mdsoare/gitlab-cicd/tree/main/03-conceitos-arquitetura">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>    
-    </tr>    
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>Formação DevOps Fundamentals</td>
+      <td align="center">
+        <a href="https://github.com/Mdsoare/gitlab-cicd/tree/main/04-DevOps-Fundamentos">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        </a>
+      </td>
+    </tr>   
   </tbody>
   <tfoot></tfoot>
 </table>
