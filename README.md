@@ -57,16 +57,7 @@ O GitLab traz ferramentas de CI/CD que simplificam esses processos, ajudando as 
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>    
-    </tr>
-    <tr>
-      <td>04</td>
-      <td>Formação DevOps Fundamentals</td>
-      <td align="center">
-        <a href="https://github.com/Mdsoare/gitlab-cicd/tree/main/04-DevOps-Fundamentos">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
-        </a>
-      </td>
-    </tr>   
+    </tr>    
   </tbody>
   <tfoot></tfoot>
 </table>
